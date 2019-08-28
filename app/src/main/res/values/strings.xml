@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MagicSlidePuzzle</string>
+    <string name="openText">Magic Slide Puzzle</string>
+    <string name="firstText">Magic Slide Puzzle</string>
+    <string name="choosePuzzle">Choose Your Puzzle</string>
+    <string-array name="choices">
+        <item>Choose Your Puzzle</item>
+        <item>Puzzle 1</item>
+        <item>Puzzle 2</item>
+        <item>Puzzle 3</item>
+    </string-array>
+</resources>
